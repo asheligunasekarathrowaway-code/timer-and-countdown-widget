@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: ##E8E8E8;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +23,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  background-color: #f1f1f1;
+  background-color: ##E8E8E8;
 }
 
 .section {
